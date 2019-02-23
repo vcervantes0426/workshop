@@ -24,3 +24,13 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+Some say the world will end in fire,  
+Some say in ice.  
+From what I’ve tasted of desire  
+I hold with those who favor fire.  
+But if it had to perish twice,  
+I think I know enough of hate  
+To say that for destruction ice  
+Is also great  
+And would suffice.  
